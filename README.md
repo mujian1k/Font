@@ -1,6 +1,4 @@
-===================================
-  HeavySystem — Decorative Font
-===================================
+HeavySystem — Decorative Font
 
 作者（Author）：mujian  
 版本（Version）：1.0  
